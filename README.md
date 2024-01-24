@@ -11,9 +11,6 @@
     - `npm run dev`
     - Access the application at [http://localhost:5173/](http://localhost:5173/)
 
-3. **Test the Application:**
-    - `npm test`
-
 **Creative Decisions:**
 
 1. **Responsive Design:**
